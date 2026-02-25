@@ -28,6 +28,7 @@ The programs were developed using:
 pip install tensorflow==2.13.0
 pip install scikit-learn==1.2.2
 pip install matplotlib==3.6.2
+```
 
 ## Detailed Windows Installation Guide for Beginners
 
@@ -49,3 +50,4 @@ In the command prompt, enter the following commands one by one (press Enter afte
 pip install tensorflow==2.13.0
 pip install scikit-learn==1.2.2
 pip install matplotlib==3.6.2
+```
