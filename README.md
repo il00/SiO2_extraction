@@ -9,9 +9,13 @@ Three different approaches have been implemented:
 - **Fully Connected Artificial Neural Networks (ANN)** — best predictions
 
 ## Repository Structure
+
 *_learning.py — files for model training and testing
+
 *_3D_plot.py — files for result visualization
+
 tf_model.keras — contains the trained ANN model
+
 training_history.json — contains the ANN model's training history
 
 ## Technical Stack
