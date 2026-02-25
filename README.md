@@ -24,6 +24,7 @@ The programs were developed using:
 ## Installation
 1. Install Python from [python.org](https://www.python.org/)
 2. Install the required libraries using pip:
+```bash
 pip install tensorflow==2.13.0
 pip install scikit-learn==1.2.2
 pip install matplotlib==3.6.2
