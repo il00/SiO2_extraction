@@ -51,3 +51,14 @@ pip install tensorflow==2.13.0
 pip install scikit-learn==1.2.2
 pip install matplotlib==3.6.2
 ```
+
+### Step 4: Download the Repository Files
+Download all files from this repository to your computer  
+Place them in a single folder (for example: C:\Users\YourName\SiO2_extraction)  
+
+### Step 5: Run One of the Models
+Now you can run any of the three models. In the command prompt, navigate to your folder and execute the corresponding command. For example:  
+```bash
+python ANN_learning.py
+python ANN_3D_plot.py
+```
