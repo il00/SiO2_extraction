@@ -30,6 +30,10 @@ pip install scikit-learn==1.2.2
 pip install matplotlib==3.6.2
 ```
 
+## Additional Information
+
+For a detailed explanation of the methodology, detailed description of the experimental results, data collection, model architectures, and comprehensive analysis of the SiO2 extraction prediction, please refer to our upcoming paper. The link to the article will be provided here once published.
+
 ## Detailed Windows Installation Guide for Beginners
 
 ### Step 1: Installing Python
